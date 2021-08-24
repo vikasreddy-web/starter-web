@@ -13,3 +13,5 @@ GIT Comparisions
 Adding lecture on git comparioions
 ## Github comparision
 This is update 1
+## Contribution
+Fork the repos

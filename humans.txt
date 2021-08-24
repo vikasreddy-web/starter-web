@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <vikas> -- <twitter>
+    Vikas Reddy
+    vikas@gmail.com
 
 # THANKS
 

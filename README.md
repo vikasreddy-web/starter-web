@@ -12,6 +12,7 @@ This is famous and best course
 GIT Comparisions 
 Adding lecture on git comparioions
 Adding aboutgit Rebase lectures
+we have done so much
 ## Github comparision
 This is update 1
 ## Contribution

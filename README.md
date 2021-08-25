@@ -11,6 +11,7 @@ This is git project which we r using as sample project
 This is famous and best course
 GIT Comparisions 
 Adding lecture on git comparioions
+Adding aboutgit Rebase lectures
 ## Github comparision
 This is update 1
 ## Contribution

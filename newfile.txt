@@ -1,0 +1,3 @@
+# Adding newfile fot Git Stash
+
+It is not tracked

@@ -8,7 +8,7 @@
 
 # THANKS
    Thanks to all the community
-
+ Hi goining to insert conflict in my feature branch
     <name>
 
 # TECHNOLOGY COLOPHON

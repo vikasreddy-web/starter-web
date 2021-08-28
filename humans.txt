@@ -11,8 +11,12 @@
 
 # THANKS
    Thanks to all the community
+<<<<<<< HEAD
    Hi Iam modyfying humans file
 
+=======
+ Hi goining to insert conflict in my feature branch
+>>>>>>> mybranch
     <name>
 
 # TECHNOLOGY COLOPHON

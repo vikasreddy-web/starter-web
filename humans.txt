@@ -16,7 +16,7 @@
    Hi Iam modyfying humans file
 
 =======
- Hi goining to insert conflict in my feature branch
+ Hi goining to insert conflict in my feature branch modified
 >>>>>>> mybranch
     <name>
 
